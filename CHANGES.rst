@@ -1,5 +1,12 @@
 Latest changes
 ===============
+Release 1.0.1
+
+    * New Features
+        - Ability to remove zip file when calling scans.download()  [Pull request #67]
+        
+
+
 
 Release 1.0.0.0
 
